@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^7.2.5",
+        "php": "^8.0.0",
         "symfony/dependency-injection": "^4.1.12|^5.0",
         "symfony/config": "~4.4|~5.0",
         "doctrine/annotations": "^1.6",
@@ -34,13 +34,13 @@
     },
     "require-dev": {
         "phpstan/phpstan": "^0.12",
-        "sebastian/phpcpd": "^4.0",
+        "sebastian/phpcpd": "^6.0",
         "squizlabs/php_codesniffer": "^3.2",
         "symfony/http-kernel": "^4.4|^5.0",
         "sensio/framework-extra-bundle": "^5.1",
         "friendsofphp/php-cs-fixer": "^2.10",
-        "phpunit/phpunit": "^7.0",
-        "symfony/browser-kit": "^4.0",
-        "symfony/yaml": "^4.0"
+        "phpunit/phpunit": "^8.0",
+        "symfony/browser-kit": "^5.0",
+        "symfony/yaml": "^5.0"
     }
 }
