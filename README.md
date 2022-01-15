@@ -19,7 +19,7 @@ Pros:
 
 ## Instalation
 ```bash
-composer require pgs-soft/hashid-bundle 
+composer require quile8x/hashid-bundle-new
 ```
 
 ## Hashids configuration
@@ -47,7 +47,7 @@ class UserController extends Controller
     {
     //...
     }
-    
+
     /**
      * Process multiple parameters - 'oneMore' will not be processed
      * @Route(name="test", path="/test/{id}/{other}/{oneMore}")
