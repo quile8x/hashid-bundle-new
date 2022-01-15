@@ -1,5 +1,5 @@
 {
-    "name": "quile8x/hashid-bundle-new",
+    "name": "quile8x/hashid-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Hash Id",
     "keywords": [],
@@ -19,11 +19,11 @@
         "symfony/routing": "^5.0"
     },
     "autoload": {
-        "psr-4": { "Ql\\HashIdBundleNew\\": "src/" }
+        "psr-4": { "Pgs\\HashIdBundle\\": "src/" }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ql\\HashIdBundleNew\\Tests\\": "tests/"
+            "Pgs\\HashIdBundle\\Tests\\": "tests/"
         }
     }
 }
