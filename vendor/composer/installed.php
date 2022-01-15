@@ -5,7 +5,7 @@
         'type' => 'symfony-bundle',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'f4a530f80780e58846d36ef84201084a01a0ebe1',
+        'reference' => 'f671c421bcd3e710d0ff6ed044b9775c300cb518',
         'name' => 'quile8x/hashid-bundle',
         'dev' => true,
     ),
@@ -67,7 +67,7 @@
             'type' => 'symfony-bundle',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'f4a530f80780e58846d36ef84201084a01a0ebe1',
+            'reference' => 'f671c421bcd3e710d0ff6ed044b9775c300cb518',
             'dev_requirement' => false,
         ),
         'symfony/config' => array(

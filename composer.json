@@ -6,8 +6,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Karol Jonski",
-            "email": "kjonski@pgs-soft.com"
+            "name": "Qui Le",
+            "email": "qu9999@gmail.com"
         }
     ],
     "require": {
@@ -31,16 +31,5 @@
       "branch-alias": {
         "dev-master": "3.0-dev"
       }
-    },
-    "require-dev": {
-        "phpstan/phpstan": "^0.12",
-        "sebastian/phpcpd": "^6.0",
-        "squizlabs/php_codesniffer": "^3.2",
-        "symfony/http-kernel": "^4.4|^5.0",
-        "sensio/framework-extra-bundle": "^5.1",
-        "friendsofphp/php-cs-fixer": "^2.10",
-        "phpunit/phpunit": "^8.0",
-        "symfony/browser-kit": "^5.0",
-        "symfony/yaml": "^5.0"
     }
 }
