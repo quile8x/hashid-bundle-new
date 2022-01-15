@@ -25,11 +25,5 @@
         "psr-4": {
             "Ql\\HashIdBundleNew\\Tests\\": "tests/"
         }
-    },
-    "minimum-stability": "stable",
-    "extra": {
-      "branch-alias": {
-        "dev-master": "3.0-dev"
-      }
     }
 }
